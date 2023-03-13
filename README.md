@@ -21,3 +21,7 @@
 
 
 #From Ganache the recipient’s address balance and history
+<img width="1012" alt="wallet image" src="https://user-images.githubusercontent.com/115195302/224587575-28d5de4f-5f8a-4856-a169-81e4f4c26181.png">
+
+
+
